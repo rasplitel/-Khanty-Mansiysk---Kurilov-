@@ -1,1 +1,2 @@
-fgggggggggggggggggggggggg
+def foo():
+    pass
